@@ -45,6 +45,7 @@ main .profile-card {
   max-height: 400px;
   max-width: 400px;
   border-radius: 15px;
+  box-shadow: 10px 10px 20px hsla(0, 0%, 59%, 0.3);
   background-color: #fff;
   overflow: hidden;
 }

@@ -1,0 +1,12 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: "Kumbh Sans", sans-serif;
+  font-size: 14px;
+}/*# sourceMappingURL=style.css.map */
